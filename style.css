@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-    width: 80%;
+    width: 60%; /* Reduced the width from 80% */
     margin: 20px auto;
     padding: 20px;
     background: #fff;
@@ -58,3 +58,4 @@ ul {
 li {
     margin-bottom: 10px;
 }
+ 
